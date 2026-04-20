@@ -1,32 +1,28 @@
-# Hi, I'm Dharmesh 👋
+# Dharmesh 👋
+### 1st Year B.Tech in AI & Machine Learning | Anurag University
 
-### 1st Year AIML Student @ Anurag University 
-**Academic Standing:** 8.75 CGPA (Semester 1)
-
----
-
-### 🚀 About Me
-I am a dedicated student pursuing my Bachelor's in Artificial Intelligence and Machine Learning. I specialize in building a strong foundation in procedural logic and system security.
-
-- 🔭 **Portfolio:** [dharmeshpav.github.io](https://dharmeshpav.github.io)
-- ⚡ **Technical Focus:** C Programming, Data Structures, and Cybersecurity Basics.
-- 🎓 **Current Goal:** Mastering memory management and transitioning into Python for Data Science.
+**Academic Performance:** 8.75 CGPA (Semester 1)  
+**Contact:** [25eg107j43@anurag.edu.in](mailto:25eg107j43@anurag.edu.in) | [LinkedIn](https://www.linkedin.com/in/dharmesh-p-705945380/)
 
 ---
 
-### 🛠 Skills & Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🚀 Professional Summary
+I am a dedicated student focused on mastering the core principles of Artificial Intelligence and Machine Learning. I prioritize building a strong foundation in procedural logic and system security to solve complex technical challenges.
+
+## 🛠 Technical Foundation
+* **Programming:** Solid understanding of C Programming fundamentals, including syntax and logical flow.
+* **Data Structures:** Knowledge of foundational concepts (Arrays, Lists) and their practical implementation.
+* **Cybersecurity:** Interested in cryptographic logic and secure coding practices.
+
+## 🏆 Competitive Experience & Honors
+### ZeroDay Hackathon | Capture The Flag (CTF)
+*Participant (2026) - Anurag University*
+* Engaged in a high-intensity cybersecurity competition focusing on logical vulnerabilities and cryptography.
+* Developed problem-solving skills in a time-sensitive, collaborative technical environment.
+* 📜 **[View Certificate of Participation](PASTE_YOUR_IMAGE_LINK_HERE)**
 
 ---
 
-### 🏆 Experience
-- **ZeroDay Hackathon (CTF Participant):** Explored logical vulnerabilities and cryptographic challenges in a competitive environment.
-- **Academic Achievement:** Maintained an 8.75 CGPA through the first semester of my AIML degree.
-
----
-
-### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/dharmesh-p-705945380/) | [Email Me](mailto:YOUR_EMAIL@HERE.com)
+## 🔭 Academic Focus
+* **Current Portfolio:** [dharmeshpav.github.io](https://dharmeshpav.github.io)
+* **Objective:** Developing a repository of algorithmic solutions in C to bridge the gap between academic theory and practical application.
