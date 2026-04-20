@@ -19,7 +19,8 @@ I am a dedicated student focused on mastering the core principles of Artificial 
 *Participant (2026) - Anurag University*
 * Engaged in a high-intensity cybersecurity competition focusing on logical vulnerabilities and cryptography.
 * Developed problem-solving skills in a time-sensitive, collaborative technical environment.
-* 📜 **[View Certificate of Participation](PASTE_YOUR_IMAGE_LINK_HERE)**
+* 📜ithub.dev/Dharmeshpav/dharmeshpav.github.io/blob/main/certificate.png.jpeg
+  
 
 ---
 
